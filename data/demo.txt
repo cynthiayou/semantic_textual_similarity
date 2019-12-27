@@ -1,0 +1,2 @@
+id	Sentence1	Sentence2	Gold Tag
+s_19	Mr President, the Cashman report can be summarised in four words: citizens' power over bureaucracy.	Mr President, the Cashman report can be summed up in a few words: the power of citizens on bureaucracy.	5

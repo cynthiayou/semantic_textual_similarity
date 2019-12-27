@@ -1,0 +1,228 @@
+id	Sentence1	Sentence2	Gold Tag
+s_1	The leaders have now been given a new chance and let us hope they seize it.	The leaders benefit aujourd' hui of a new luck and let's let them therefore seize it.	5
+s_4	The vote will take place today at 5.30 p.m.	The vote will take place at 5.30pm	5
+s_6	Neither was there a qualified majority within this House to revert to Article 272.	There was not a majority voting in Parliament to go back to Article 272.	5
+s_8	The fishermen are inactive, tired and disappointed.	The fishers are inactive, tired and disappointed.	5
+s_18	As I already explained during second reading, there is a crisis underlying this directive amendment.	As I have already explained, at second reading, a crisis is at the root of this modification of Directive.	5
+s_19	Mr President, the Cashman report can be summarised in four words: citizens' power over bureaucracy.	Mr President, the Cashman report can be summed up in a few words: the power of citizens on bureaucracy.	5
+s_24	Thank you, Commissioner.	Thank you, Commissioner.	5
+s_28	Then perhaps we could have avoided a catastrophe.	Perhaps we should have been able to prevent a disaster.	5
+s_33	Thank you, Commissioner.	Thank-You, Mister the Commissioner.	5
+s_37	There must be a balance as a whole.	Group must be in equilibrium.	5
+s_39	Amendment No 7 proposes certain changes in the references to paragraphs.	Amendment No 7 proposes certain changes in the references to paragraphs.	5
+s_45	I am one of those Members who attends sittings quite faithfully.	I am one of the Members who are rather honourably here.	5
+s_48	The leaders have now been given a new chance and let us hope they seize it.	The leaders profit aujourd' hui of a new luck and let us leave them therefore to seize it.	4
+s_50	(Parliament adopted the legislative resolution)	(The Parliament adopts the legislative resolution)	5
+s_64	Maij-Weggen report (A5-0323/2000)	Maij-Weggen report (A5-0323 / 2000)	5
+s_98	I am one of those Members who attends sittings quite faithfully.	I am one of those Members who are rather honourably here.	4
+s_101	Selective aid, such as market support and a grass subsidy, are essential.	Specific assistances like the support of the market or the premium with grass are essential.	5
+s_109	There must be a balance as a whole.	The whole must be in balance.	5
+s_113	Tunisia	Tunisia	5
+s_115	As I already explained during second reading, there is a crisis underlying this directive amendment.	As I already explained in second reading, a crisis is at the base of this modification of directive.	5
+s_117	The European Union has got to do something and do it quickly.	It is right that the European Union is involved, and for this to be done quickly.	5
+s_120	As I already explained during second reading, there is a crisis underlying this directive amendment.	As I have already explained in second reading, is at the root of this directive.	4
+s_123	Maij-Weggen report (A5-0323/2000)	Maij-Weggen report (5 / 2000)	3
+s_124	Thank you, Commissioner.	Thank you, Mister the Commissioner.	5
+s_128	As I already explained during second reading, there is a crisis underlying this directive amendment.	As I have already explained at second reading, a crisis is on the basis of this amended directive.	5
+s_142	Mr President, the Cashman report can be summarised in four words: citizens' power over bureaucracy.	Mr President, the report Mr Cashman's can be summarised in a few words: the power of people on the tape.	3
+s_147	Consumers will lose out, employees will lose out, Europe will lose competitive strength and growth.	Users will be the losers, with employees, and European competitiveness and growth Régresseront.	4
+s_152	Van Orden Report (A5-0241/2000)	Van Orden report (5 / 2000)	3
+s_153	The fishermen are inactive, tired and disappointed.	The fishermen are unemployed, tired and disappointed.	5
+s_154	Van Orden Report (A5-0241/2000)	Van Orden report (5 / 2000)	3
+s_155	As I already explained during second reading, there is a crisis underlying this directive amendment.	As I have already explained at second reading, a crisis is on the basis of this amendment of directive.	5
+s_160	Tunisia	Tunisia	5
+s_164	Mr President, I rise in defence of the workers in the industry.	Mr President, I would like to take the defence of workers in this sector.	5
+s_165	Unanimous decisions, and hence an inherent incapacity to act, remain largely the norm in the Council.	We keep unanimity in the Council and therefore a latent inability to act.	4
+s_169	(Parliament adopted the legislative resolution)	(Parliament adopted the legislative resolution)	5
+s_174	The European Union has got to do something and do it quickly.	It is appropriate that the European Union is involved and that it makes it quickly.	5
+s_175	Neither was there a qualified majority within this House to revert to Article 272.	It did not exist not more qualified majority within this Parliament to come back to the item 272.	5
+s_179	Unfortunately, others separate on the basis of accumulated hatred.	D 'other separate themselves unfortunately because of an accumulated grudge.	4
+s_182	There must be a balance as a whole.	The whole must be in balance.	5
+s_187	The vote will take place today at 5.30 p.m.	The vote will take place at 5.30 p.m.	4
+s_188	Selective aid, such as market support and a grass subsidy, are essential.	The occasional aid as the market or the grass is essential.	4
+s_192	Tunisia	Tunisia	5
+s_203	Let me remind you that our allies include fervent supporters of this tax.	I would like to remind you that among our allies, there are ardent supporters of this tax.	5
+s_211	Van Orden Report (A5-0241/2000)	Van Orden report (A5-0241 / 2000)	5
+s_212	That provision could open the door wide to arbitrariness.	This point of the regulation opens the door to arbitrariness.	4
+s_213	I am one of those Members who attends sittings quite faithfully.	I am part of parliamentarians who are rather present honourably.	4
+s_214	Mr President, the Cashman report can be summarised in four words: citizens' power over bureaucracy.	Mister the President, the report Cashman can summarize itself in some words: the strength of the citizens on the bureaucracy.	5
+s_234	Let me remind you that our allies include fervent supporters of this tax.	I want to remind you that of our allies, it is of major of tax.	5
+s_237	I am one of those Members who attends sittings quite faithfully.	I form part of the members of Parliament who are rather honourably present.	5
+s_239	Mr President, the Cashman report can be summarised in four words: citizens' power over bureaucracy.	Mr President, the Cashman report can be summarised as follows: the citizens on bureaucracy.	5
+s_243	Selective aid, such as market support and a grass subsidy, are essential.	Punctual help as the support of the market or the bonus at the grass is essential.	4
+s_251	Unanimous decisions, and hence an inherent incapacity to act, remain largely the norm in the Council.	We maintain unanimity in the Council and therefore a latent inability to act.	4
+s_261	Van Orden Report (A5-0241/2000)	Report Van Orden (A5-0241/2000)	5
+s_263	The standards are scarcely comparable, let alone transferable.	The standards are hardly comparable and even less transferable.	5
+s_267	Unfortunately, others separate on the basis of accumulated hatred.	Others are parting unfortunately because of a rancune gained.	4
+s_272	The leaders have now been given a new chance and let us hope they seize it.	The leaders now have a new chance and let them therefore seize it.	5
+s_276	Unfortunately, others separate on the basis of accumulated hatred.	Others unfortunately diverge in response to rancune gained.	4
+s_288	There must be a balance as a whole.	All must be balanced.	5
+s_290	The standards are scarcely comparable, let alone transferable.	The standards are hardly comparable and even less transferable.	5
+s_294	Then perhaps we could have avoided a catastrophe.	We might then have to avoid a disaster.	4
+s_296	That provision could open the door wide to arbitrariness.	This paves the way for the of the Rules of Procedure here.	2
+s_300	As I already explained during second reading, there is a crisis underlying this directive amendment.	As I have already explained in second reading, a crisis is at the basis of this modification of directive.	5
+s_311	Thank you, Commissioner.	Thank you, Mr Commissioner.	5
+s_317	Mr President, the Cashman report can be summarised in four words: citizens' power over bureaucracy.	Mr President, the Cashman report can be summarized briefly: the power of the people on bureaucracy.	5
+s_319	The European Union has got to do something and do it quickly.	It is appropriate that the European Union is and what it implies does it quickly.	5
+s_325	It increases the power of the big countries at the expense of the small countries.	Has the effect of increasing the power of the large countries at the expense of the smaller countries.	5
+s_327	The vote will take place today at 5.30 p.m.	The vote will take place at 5.30 p.m.	4
+s_329	We often pontificate here about being the representatives of the citizens of Europe.	We often take pride here to represent the citizens of Europe.	4
+s_357	Then perhaps we could have avoided a catastrophe.	We would maybe then have been able to avoid a disaster.	4
+s_371	The standards are scarcely comparable, let alone transferable.	The standards are hardly comparable and even less transferable.	5
+s_375	The European Union has got to do something and do it quickly.	It suits that the European Union is implied and that it makesit rapidly.	3
+s_378	The fishermen are inactive, tired and disappointed.	The fishermen are inactive, tired and disappointed.	5
+s_380	Consumers will lose out, employees will lose out, Europe will lose competitive strength and growth.	Users will be the losers, with employees, and European competitiveness and growth Régresseront.	4
+s_387	Unanimous decisions, and hence an inherent incapacity to act, remain largely the norm in the Council.	We maintain unanimity in the Council and therefore a latent inability to act.	4
+s_396	Tunisia	Tunisia	5
+s_407	The leaders have now been given a new chance and let us hope they seize it.	The leaders profit today from a new chance and thus let them seize it.	5
+s_430	The standards are scarcely comparable, let alone transferable.	The norms are scarcely comparable and again less transférables.	4
+s_438	Van Orden Report (A5-0241/2000)	Report Van Orden, A5-0241/2000 --	5
+s_448	The fishermen are inactive, tired and disappointed.	The fishermen are inactive, tired and disappointed.	5
+s_453	Then perhaps we could have avoided a catastrophe.	We might have been able to prevent a disaster.	4
+s_460	The problem likely will mean corrective changes before the shuttle fleet starts flying again.	He said the problem needs to be corrected before the space shuttle fleet is cleared to fly again.	4
+s_466	Darren Dopp, a Spitzer spokesman, declined to comment late Thursday.	John Heine, a spokesman for the commission in Washington, declined to comment on Mr. Spitzer's criticism.	1
+s_468	In afternoon trading in Europe, France's CAC-40 advanced and Britain's FTSE 100 each gained 0.7 percent, while Germany's DAX index rose 0.6 percent.	In Europe, France's CAC-40 rose 1.3 percent, Britain's FTSE 100 declined 0.2 percent and Germany's DAX index gained 0.6 percent.	2
+s_469	He later learned that the incident was caused by the Concorde's sonic boom.	He later found out the alarming incident had been caused by Concorde's powerful sonic boom.	5
+s_470	Sens. John Kerry and Bob Graham declined invitations to speak.	The no-shows were Sens. John Kerry of Massachusetts and Bob Graham of Florida.	4
+s_480	South Asia follows, with 1.1 millions youths infected — 62 percent of them female.	Of the 1.1 million infected in south Asia, 62% are female.	4
+s_482	Executive recruiters say that finding a seasoned chief merchandising officer will perhaps be the trickiest of all hires because there is such a dearth of good ones.	Executive recruiters say that finding a seasoned chief merchandising officer perhaps will be the trickiest of all hires.	4
+s_484	The decades-long conflict has killed more than 10,000 people in the resource-rich province, most of them civilians.	More than 10,000 people, most of them civilians, have been killed in three decades of insurgency.	4
+s_485	Claudette, the first hurricane of the Atlantic storm season, hit the mid-Texas coast July 15 with 85-mph wind.	Claudette, the first hurricane of the Atlantic storm season, hit the mid-Texas coast July 15, classified as a Category 1 hurricane with maximum sustained winds of 85 mph.	4
+s_491	But Odette is the first to form over the Caribbean Sea in December, the Center said.	It is the first named storm to develop in the Caribbean in December.	4
+s_492	Leon Williams' body was found inside his third-floor apartment at 196 Bay St., in Tompkinsville.	The dead man, Leon Williams, was found in his third-floor apartment.	3
+s_495	Ursel Reisen confirmed it operated the coach, but gave no details other than to say the passengers were of mixed ages.	Ursel Reisen confirmed it had been operating the coach, but declined to give details of the passengers other than to say they were of mixed ages.	5
+s_498	General Myers told reporters that "at first blush, it doesn't look like any rules were broken".	"At first blush, it doesn't look like any rules were broken," said Gen. Richard Myers, chairman of the Joint Chiefs of Staff.	4
+s_501	Tom Kraynak, manager of operations and resources for the Canton, Ohio-based East Central Area Reliability Council, said that scenario is one among many that investigators are considering.	Tom Kraynak, manager of operations and resources for the Canton, Ohio-based East Central Area Reliability Council, said investigators are considering the scenario.	4
+s_502	They found molecules that can only be produced when ozone breaks down cholesterol.	And all of the samples contained molecules that can only be produced when cholesterol interacts with ozone.	4
+s_506	The budget analysis comes as negotiations between the City Council and the Bloomberg administration heat up.	Budget negotiations between the mayor and the City Council are entering high gear.	3
+s_508	Local police authorities are treating the explosion as a criminal matter and nothing has been ruled out.	Acting New Haven Police Chief Francisco Ortiz said police were treating the explosion as a criminal matter.	3
+s_510	In 2001 and 2002, wire transfers from 4 of the company's 40 accounts totaled more than $3.2 billion, prosecutors said.	Wire transfers from four of the 40 accounts open at Beacon Hill totaled more than $3.2 billion from 2001 to 2002, Morgenthau said.	4
+s_519	Her body was found several weeks later in the Green River.	Aug. 15, 1982: Remains of Chapman, Hinds and Mills are found in the Green River.	3
+s_522	The reading for both August and July is the best seen since the survey began in August 1997.	It is the highest reading since the index was created in August 1997.	3
+s_533	Business Week's online edition reported on Friday that WorldCom and the SEC could announce a settlement as early as Monday.	BusinessWeek Online has learned that the settlement could come as early as Monday, May 19.	3
+s_534	Sovereign's shares lost 74 cents, or 4.5%, to $15.68.	Sovereign shares closed on the New York Stock Exchange at $15.68, down 74 cents, or 4.5 percent.	4
+s_535	Aspen Technology's shares dropped 74 cents, or 23 percent, to close at $2.48 on the Nasdaq.	In afternoon trading, Aspen's shares were off 89 cents or more than 27 percent at $2.33 per share.	2
+s_539	Gilroy police and FBI agents described Gehring as cooperative, but said Saturday that he had revealed nothing about what had happened to the children.	Saturday, officials in California described Gehring as cooperative — but said he has revealed nothing about what has happened to the children.	4
+s_553	GM, the world's largest automaker, has 115,000 active UAW workers and another 340,000 retirees and spouses.	They cover more than 300,000 UAW workers and 500,000 retirees and spouses.	2
+s_555	She said he persisted and she eventually allowed him to fix her bike while she sat in the front seat of his car.	She said she eventually allowed him to fix her bike while she sat in his car, and they chatted.	4
+s_556	Heatley was sixth in the league in goals last season with 41 and ninth in points with 89.	Heatley led Atlanta in scoring last season with a team-record 41 goals and 48 assists.	3
+s_558	A three-judge panel of the 11th U.S. Circuit Court of Appeals ruled late Friday that the small size, limited use and secular purpose make the image legitimate.	A three-judge panel of the 8th U.S. Circuit Court of Appeals in St. Louis overturned a ruling issued last year that supported the ordinance.	3
+s_568	The next court session will be when the three-judge tribunal announces its verdict in mid-February.	The court's three-judge tribunal was expected to give its verdict next February.	4
+s_581	Washington, however, said more was needed to prevent complaints being filed in the first place.	But the US insisted it wanted more done to prevent complaints being filed in the first place, preferably by repealing the entire law.	3
+s_583	Pines said he would convene the relevant party bodies within 10 days to discuss whether new elections would be held or whether a temporary leader would be appointed.	Mitzna and party secretary Ophir Pines agreed to convene party organizations within 10 days to discuss whether new primaries would be held or a temporary leader appointed.	4
+s_591	The compensation committee will prohibit securities industry directors from sitting on it.	The exchange also said its five-person compensation committee will consist only of directors from outside the securities industry.	4
+s_596	CIA Director George Tenet said the two men were "defined by dedication and courage."	"[They] were defined by dedication and courage," said the CIA's director George Tenet.	4
+s_600	Prosecutors contended that Mr. Durst had plotted the murder to assume Mr. Black's identity.	Prosecutors maintained that Durst murdered Black to try to assume Black's identity.	5
+s_609	Mr. Bush had sought to store his papers in his father's presidential library, where they would have stayed secret for a half-century.	In Texas, public watchdog groups opposed Mr. Bush's efforts to house his papers at his father's presidential library, where they would have remained secret for a half-century.	3
+s_613	This integrates with Rational PurifyPlus and allows developers to work in supported versions of Java, Visual C# and Visual Basic .NET.	IBM said the Rational products were also integrated with Rational PurifyPlus, which allows developers to work in Java, Visual C# and VisualBasic .Net.	4
+s_619	The 30-year bond US30YT=RR jumped 20/32, taking its yield to 4.14 percent from 4.18 percent.	The 30-year bond US30YT=RR dipped 14/32 for a yield of 4.26 percent from 4.23 percent.	2
+s_621	Oracle shares fell 27 cents, or 2 percent, to $13.09.	Oracle shares also rose on the news, up 15 cents to $13.51 on the Nasdaq.	2
+s_631	After 9/11, Connolly said, agents spent thousands of hours investigating al-Bayoumi.	Connolly said FBI agents in San Diego and abroad spent thousands of hours investigating al-Bayoumi.	3
+s_641	A rebel who was captured said more than 2,000 insurgents were involved in the attack.	A captured rebel said 2,100 combatants had been involved in the offensive.	4
+s_642	"It was brazen intimidation to keep people on the reservation," said a Republican who attended but did not want to be named.	"It was a brazen attempt at intimidation," said a Republican legislator who attended the meeting.	4
+s_646	Paul Themba Nyathi, an MDC spokesman, said the Avenues Clinic was being targeted because it was treating opposition supporters.	MDC spokesperson Paul Themba Nyathi said the Avenues Clinic was targeted because it was handling opposition supporters.	5
+s_658	The tech-heavy Nasdaq Stock Markets composite index added 1.16 points to 1,504.04.	The Nasdaq Composite index, full of technology stocks, was lately up around 18 points.	2
+s_659	The technology-laced Nasdaq Composite Index dipped 0.08 of a point to 1,646.	The technology-laced Nasdaq Composite Index <.IXIC> added 1.92 points, or 0.12 percent, at 1,647.94.	2
+s_660	YES filed suit yesterday in the Supreme Court of New York County in Manhattan.	The suit was filed in the Supreme Court of New York County.	3
+s_661	He told the jury Stubbs is a "cold, calculating killer."	District Attorney Dave Lupas reminded jurors that Stubbs is, "a cold, calculating killer".	3
+s_672	Further out the curve, the benchmark 10-year note US10YT=RR shed 25/32 in price, taking its yield to 3.26 percent from 3.17 percent.	Early Wednesday, the benchmark 10-year US10YT=RR had lost 16/32 in price, driving its yield up to 3.33 percent from 3.26 percent late Tuesday.	3
+s_681	Shares of Guidant plummeted in trading both on and off the New York Stock Exchange before a news halt was imposed after midday.	Shares of Guidant were down 5.3 percent at $40.92 in afternoon trading on the New York Stock Exchange.	3
+s_687	The rate of skin cancer has tripled since the 1950s in Norway and Sweden, according to the study.	The study also found that skin cancer nearly tripled in Norway and Sweden since the 1950s.	5
+s_700	A coalition of campaign groups, including the militant national students body, is backing the protests, which the NLC called in defiance of a court order banning them.	A coalition of campaign groups, including the militant national students body, is backing the action and is mobilising for protests.	3
+s_710	He gave a surprisingly impassioned speech to the United Steelworkers of America, who announced their endorsement yesterday.	On Tuesday, he picked up the endorsement of the United Steelworkers of America.	2
+s_712	"And about eight to 10 seconds down, I hit.	"I was in the water for about eight seconds.	2
+s_715	Activists say they fear the gathering is an attempt by corporate farming to push bio-engineered crops on starving countries.	Instead, they fear the conference is an attempt by corporate farming and biotech interests to push into new markets.	3
+s_717	The technology-laced Nasdaq Composite Index .IXIC rose 39.39 points, or 2.2 percent, to 1,826.33, after losing more than 2 percent on Tuesday.	The blue-chip Dow Jones industrial average .DJI jumped 194.14 points, or 2.09 percent, to 9,469.20 after sinking more than 1 percent a day earlier.	2
+s_721	Yesterday, shares closed up 29 cents, or 0.54 percent, at $54.32.	Amazon's shares yesterday closed at $54.32 on the Nasdaq Stock Market, up 29 cents.	3
+s_733	Ruffner, 45, doesn't yet have an attorney in the murder charge, authorities said.	Ruffner, 45, does not have a lawyer on the murder charge, authorities said.	5
+s_751	We intend to appeal vigorously and still expect to be vindicated ultimately.	We think this was bad law, and we still expect to be vindicated ultimately.	3
+s_752	"These despicable acts were committed by killers whose only faith is hate," Bush said, adding that the United States will find the killers.	These despicable acts were committed by killers whose only faith is hate and the United States will find the killers and they will learn the meaning of American justice.	4
+s_754	The transaction will expand Callebaut's sales revenues from its consumer products business to 45 percent from 23 percent.	The transaction will expand Callebaut's sales revenues from its consumer products business by around 45 percent to some one-third of total sales.	4
+s_761	The Securities and Exchange Commission has also initiated an informal probe of Coke.	That federal investigation is separate from an informal inquiry by the Securities and Exchange Commission.	2
+s_765	A beauty contest to be held in Italy next week may be the first for pixel-perfect pin-ups.	A new beauty contest kicking off in Italy next week will give pixel-perfect pin-ups the chance to steal sultry Sophia's sex-symbol status.	3
+s_771	Bush said resistance forces hostile to the U.S. presence "feel like ... the conditions are such that they can attack us there.	There are some who feel like the conditions are such that they can attack us there.	3
+s_777	Gyorgy Heizler, head of the local disaster unit, said the coach was carrying 38 passengers.	The head of the local disaster unit, Gyorgy Heizler, said the coach driver had failed to heed red stop lights.	3
+s_778	Tuition at four-year private colleges averaged $19,710 this year, up 6 percent from 2002.	For the current academic year, tuition at public colleges averaged $4,694, up almost $600 from the year before.	2
+s_790	His dissent was joined by Chief Justice William H. Rehnquist and Justice Clarence Thomas.	Chief Justice William H. Rehnquist and Justices Antonin Scalia and Clarence Thomas dissented.	4
+s_793	Bush wanted "to see an aircraft landing the same way that the pilots saw an aircraft landing," White House press secretary Ari Fleischer said yesterday.	On Tuesday, before Byrd's speech, Fleischer said Bush wanted ''to see an aircraft landing the same way that the pilots saw an aircraft landing.	4
+s_797	Pratt &Whitney had said that 75 per cent of the engine equipment would be outsourced to Europe, with final assembly in Germany.	Pratt & Whitney had said that if it won the contract 75 per cent of the engine equipment would be outsourced to European suppliers, with final assembly in Germany.	4
+s_801	"They've been in the stores for over six weeks," says Carney.	The quarterlies usually stay in stores for between six to eight weeks," Carney added.	3
+s_806	The world's largest software company said it recognized the difficulty the multiple patches posed for companies, and set out to make it easier for them to apply the updates.	The world's largest software company said it recognized the difficulty the multiple patches posed for companies trying to apply them.	4
+s_814	The Dow Jones industrials climbed more than 140 points to above the 9,000 mark, the first time since December.	The Dow Jones industrials briefly surpassed the 9,000 mark for the first time since December."	4
+s_815	The announcements were made at the International Broadcasting Convention (IBC) in Amsterdam.	The submission was on Monday, but the announcement was made Friday at the International Broadcasting Convention in Amsterdam.	3
+s_817	The government has chosen three companies to develop plans to protect commercial aircraft from shoulder-fired missile attacks, homeland security officials announced Tuesday.	The Department of Homeland Security announced Tuesday that it has selected three companies to continue research into ways to thwart shoulder-fired missile attacks on U.S. commercial aircraft.	5
+s_820	He urged patience from Americans eager for the service, which is intended to block about 80 percent of telemarketing calls.	The free service was originally intended to block about 80 percent of telemarketer calls.	3
+s_825	"We do not want to stand by and let a credit card lynching take place," declared Rep. Major Owens (D-Brooklyn).	"We don't want to stand by and see a credit card lynching take place," he said.	4
+s_827	However, commercial use of the 2.6.0 kernel is still months off for most customers.	Commercial releases of the 2.6 kernel by major Linux distributors still remain months away.	4
+s_836	Its keywords are supported by Chinese language Web portals.	Chinese language Web portals also support 3721 keywords, the Web site said.	3
+s_844	Graham, a presidential candidate, was criticized by several Republicans as ''politicizing'' the report.	Graham, who co-chaired the inquiry, is a presidential candidate.	2
+s_849	Initial autopsy reports show they died of dehydration, hyperthermia and suffocation.	Two more died later, and initial autopsy reports show they succumbed to dehydration, hypothermia and suffocation.	3
+s_860	The broader Standard & Poor's 500 Index .SPX gained 3 points, or 0.39 percent, at 924.	The technology-laced Nasdaq Composite Index <.IXIC> rose 6 points, or 0.41 percent, to 1,498.	1
+s_869	In a statement distributed Friday, 28 Chechen non-governmental organizations said they would boycott the vote.	In a statement distributed today, 28 Chechen non-governmental organisations said they would boycott the vote and warned voters to expect fraud.	4
+s_875	That compares with a profit of $1 million, or breakeven, on $1.39 billion in revenue during the same period last year.	Total revenue for the second quarter was $1.48 billion, up 7% from $1.39 billion in the same period last year.	2
+s_884	On Saturday, the International Committee of the Red Cross said it was temporarily closing its offices in Baghdad and Basra.	The International Committee of the Red Cross, fearful for the safety of its staff operating in Iraq, announced it was temporarily shutting its offices in Baghdad and Basra.	3
+s_885	The Ireland Palestine Solidarity Campaign, of which Mr O Muireagáin was a member, welcomed his release.	The Ireland Palestine Solidarity Campaign, of which he was a member, said he was researching a schools exchange project.	2
+s_889	In September, a 27-year-old Singapore researcher contracted SARS while working in a laboratory.	In a case in August, a 27-year-old laboratory worker in Singapore developed SARS.	3
+s_890	A number below 50 suggests contraction in the manufacturing sector, while a number above that indicates expansion.	A reading above 50 suggests growth in the sector, while a number below that level indicates contraction.	5
+s_894	But in the first 30 seconds after Young entered the ring, the family knew it was an uneven match, Meyers said.	But in the first 30 seconds of the bout, family members knew it was an uneven match, Jodie Meyers, Stacy Young's sister, said.	4
+s_895	Chairman Michael Powell and FCC colleagues at the Wednesday hearing.	FCC chief Michael Powell presides over hearing Monday.	3
+s_897	Tehran has made clear it will only sign the Additional Protocol introducing such inspections if a ban on the import of civilian Western nuclear technology is lifted.	Tehran has made it clear it will only sign the protocol if a ban on imports of peaceful Western nuclear technology is lifted.	4
+s_906	Mr. Geoghan had been living in a protective custody unit since being transferred to the prison on April 3.	He had been in protective custody since being transferred to Souza-Baranowski in April, officials said.	3
+s_915	Shelia Chaney Wilson seemed agitated when she came to help prepare for Turner Monumental A.M.E. Church's upcoming 104th anniversary celebration, worshippers said.	Congregants of Turner Monumental AME Church said Shelia Chaney Wilson, 43, was agitated when she came to the church, in the Kirkwood neighborhood on the city's east side.	4
+s_924	The 30-year bond US30YT=RR dipped 14/32 for a yield of 4.26 percent from 4.23 percent.	The 30-year bond US30YT=RR lost 16/32, taking its yield to 4.20 percent from 4.18 percent.	3
+s_932	The Boston Archdiocese has faced waves of scandal that have not only angered victims' advocates but parishioners and some priests.	The waves of scandal angered not only victims' advocates but parishioners and some priests, to the point that Law could no longer run the archdiocese.	3
+s_934	The department's position threatens to alienate social conservatives, who have provided strong political support for Mr. Ashcroft and President Bush.	The department's stance disappointed some abortion opponents, and it threatens to alienate social conservatives who have provided strong political support for Ashcroft and President Bush.	4
+s_935	South Africa has the world's highest caseload with 4.7 million people infected with HIV or AIDS.	With 4.7 million people infected with HIV or AIDS, South Africa has the world's highest AIDS caseload.	5
+s_936	In that position, Elias will report to Joe Tucci, president and CEO of EMC.	As executive vice president of new ventures, Elias will report to Joe Tucci, EMC's president and chief executive.	3
+s_944	"Today, we are trying to convey this problem to Russian President Vladimir Putin and US President George W Bush."	"Today, we are trying to convey this problem to Russian President Vladimir Putin (news - web sites) and President Bush (news - web sites)."	5
+s_949	Det Chief Insp Norman McKinlay said there was "evidence a body or bodies have been in this area".	Detective Chief Inspector Norman McKinlay, leading the investigation, said: "There is evidence a body or bodies have been in this area.	5
+s_951	Board Chancellor Robert Bennett declined to comment on personnel matters Tuesday, as did Mills.	Mr. Mills declined to comment yesterday, saying that he never discussed personnel matters.	3
+s_956	Revenue rose to $616.5 million from $610.6 million a year earlier.	Revenue was up a tad, from $610.6 million to $616.5 million.	4
+s_966	SARS has killed 296 people on China's mainland and infected more than 5,200.	Throughout China's mainland, the disease has killed 300 people and infected more than 5,270.	3
+s_967	The redesigned Finder also features search, coloured labels for customized organization of documents and projects and dynamic browsing of the network for Mac, Windows and UNIX file servers.	It also supports coloured labels to better organise documents, and dynamic browsing of the network for Mac, Windows and Unix file servers.	3
+s_969	He was voluntarily castrated in 2001, an operation he contends removed his ability to become sexually aroused.	DeVries, who was voluntarily castrated in August 2001, has said the surgery took away his ability to become sexually aroused.	5
+s_971	In turn SuSE will license Java 2 Standard Edition while also formalising an existing agreement to distribute Sun's Java Virtual Machine for running Java applications.	Nuremberg, Germany-based SuSE will license Sun's Java 2 Standard Edition (J2SE) and ship Sun's Java Virtual Machine across its Linux software line.	4
+s_980	Nonetheless, the open-source guru insisted, "This attack was wrong, and it was dangerous to our goals."	"This attack was wrong, and it was dangerous to our goals," Raymond said.	4
+s_984	"But that does not clear them of the obligation to do everything possible to protect civilians, and that is not what we're seeing."	"But that does not clear them of the responsibility to do everything possible to minimize civilian harm."	3
+s_997	In Vienna, the IAEA said ElBaradei would accept the invitation, although no date had yet been set.	In Vienna, the International Atomic Energy Agency said on Monday ElBaradei had accepted Iran's invitation, but said no date had yet been set.	3
+s_998	The technology-laced Nasdaq Composite Index <.IXIC> was up 7.42 points, or 0.45 percent, at 1,653.44.	The broader Standard & Poor's 500 Index .SPX was 0.46 points lower, or 0.05 percent, at 997.02.	1
+s_1000	Druce will face murder charges, Conte said.	Conte said Druce will be charged with murder.	5
+s_1003	Nick Markakis, a left-hander from Young Harris Junior College in Georgia, went to the Orioles with the seventh pick.	Next, Baltimore took Nick Markakis, a left-handed pitcher and outfielder from Young Harris Junior College in Georgia.	4
+s_1029	One question was whether France, which infuriated Washington by leading the charge against U.N. authorization for the war, would vote "Yes" or abstain.	France, which infuriated Washington by leading the charge against U.N. approval for the war, also sought changes.	3
+s_1035	The veteran Malyasian diplomat met Suu Kyi Wednesday at the lakeside home in Yangon where she is under house arrest.	Razali Ismail met for 90 minutes with Suu Kyi, a 1991 winner of the Nobel Peace Prize, at her lakeside home, where she is under house arrest.	4
+s_1038	New legit download service launches with PC users in mind.	BuyMusic is the first subscription-free paid download music service for PC users.	2
+s_1041	The Institute for Supply Management's index of nonmanufacturing activity rose unexpectedly in April, reports said.	The Institute for Supply Management said its index of non-manufacturing activity rose to 50.7 from 47.9 in March.	3
+s_1052	At first blush, then, the distinction drawn by the creators of the do-not-call registry would seem to draw the line in precisely the right place.	At first blush, then, the creators of the registry would seem to have drawn the line between exempted and banned calls in the right place.	4
+s_1068	Special police detained Khodorkovsky early on Saturday in the Siberian city of Novosibirsk, where his plane had made a refuelling stop.	Police detained Khodorkovsky early on Saturday when his jet made a refueling stop in the Siberian city of Novosibirsk.	5
+s_1073	Evacuation went smoothly, although passengers weren't told what was going on, Hunt said.	Passengers were evacuated smoothly, although they were not told what was going on, he said.	4
+s_1082	"They were an inspirational couple, selfless and courageous," said the Oscar-winning film director.	He said: “They were an inspirational couple, selfless and courageous.	3
+s_1086	In an interview, Healey, who is a criminologist, acknowledged that much of the sentiment among legislators here and across the country was wariness toward capital punishment.	In an interview, Ms. Healey, who is a criminologist, said many lawmakers here and across the country shared a wariness toward capital punishment.	5
+s_1089	Federal Judge William Barbour said Tuesday he imposed the maximum sentence because Avants showed no remorse in the brutal slaying.	U.S. District Judge William Barbour said he imposed the maximum because Avants showed no remorse.	4
+s_1104	The findings were published in the July 1 issue of the Annals of Internal Medicine.	The findings are being published today in the Annals of Internal Medicine.	4
+s_1106	Enron spokesman Eric Thode declined to comment on the mediation order.	"We think it's great news," said Enron spokesman Eric Thode.	2
+s_1109	Earlier, he told France Inter-Radio, "I think we can now qualify what is happening as a genuine epidemic."	"I think we can now qualify what is happening as a genuine epidemic," Health Minister Jean-Francois Mattei said on France Inter radio.	3
+s_1110	Terri Schiavo, 39, is expected to die sometime in the next two weeks in the Tampa-area hospice where she has spent the past several years.	Terri Schiavo, 39, underwent the procedure at the Tampa Bay area hospice where she has been living for several years, said her father, Bob Schindler.	2
+s_1112	Prior to joining Kodak, Palumbo worked for Procter & Gamble Corp., where he managed products such as Folgers and Pantene shampoo.	Prior to joining Eastman Kodak, Mr. Palumbo held senior marketing positions for Procter & Gamble.	4
+s_1113	Mr McDevitt has been granted control of three crucial aspects of policing in the Solomons.	Mr McDevitt has been granted control of three aspects of policing by Commissioner William Morrell.	4
+s_1115	Officials with North Carolina Speedway at Rockingham could not be reached.	NASCAR officials could not be reached for comment Tuesday.	3
+s_1116	They said the child was taken to Nassau County Medical Center for observation.	The boy was taken to Nassau University Medical Center, where staff said he was "doing okay."	3
+s_1117	Tisha Kresler, a spokeswoman for Global Crossing, declined to comment.	A Global Crossing representative had no immediate comment.	4
+s_1119	The unions also staged a five-day strike in March that forced all but one of Yale's dining halls to close.	The unions also staged a five-day strike in March; strikes have preceded eight of the last 10 contracts.	3
+s_1120	Gov. Rick Perry has said that while he opposes gambling expansion, he would be reluctant to veto continuation of the Lottery Commission.	Gov. Rick Perry opposes expansion of gambling but has said he would be "hard-pressed" to veto the lottery sunset bill.	4
+s_1125	The US Senate judiciary committee overcame a significant hurdle yesterday in the battle to create a trust fund to pay victims of asbestos exposure.	The Senate judiciary committee on Tuesday overcame a significant hurdle in the battle to create a trust fund to pay victims of asbestos exposure but the most difficult obstacles remain.	4
+s_1129	Michelle Wie chips Sunday during her 1-up victory over Virada Nirapathpongporn in the 27th U.S. Women's Amateur Public Links Championship.	Now she has her first trophy after victory in the US Women's Amateur Public Links here on Sunday.	3
+s_1140	Cisco pared spending to compensate for sluggish sales.	In response to sluggish sales, Cisco pared spending.	5
+s_1142	Sterling was down 0.8 percent against the dollar at $1.5875 GBP= .	The dollar rose 0.15 percent against the Japanese currency to 115.97 yen.	1
+s_1144	"Right from the beginning, we didn't want to see anyone take a cut in pay.	But Mr. Crosby told The Associated Press: "Right from the beginning, we didn't want to see anyone take a cut in pay.	4
+s_1149	Teams of inspectors walked into a restricted area at one park without being stopped; others took pictures of sensitive areas without being challenged.	Teams of inspectors walked into a restricted area at one park without being stopped by employees; others took pictures of security-sensitive areas without anyone challenging them.	5
+s_1152	Mr Levine confirmed that Ms Cohen Alon had tried to sell the story during the World Cup.	Ms Cohen Alon's lawyer, Donald Levine, confirmed she tried to sell the story in February.	3
+s_1154	"This moves us a lot closer to saying that the foam can do this kind of damage," said Hubbard, a member of the Columbia Accident Investigation Board.	"I think this moves us a lot closer toward saying that foam can do this kind of damage," Hubbard said.	4
+s_1168	Similar bills passed the House twice but died in the Senate.	Two years ago, the House passed a similar version that floundered in the Senate.	3
+s_1171	"Jeremy's a good guy," Barber said, adding: "Jeremy is living the dream life of the New York athlete.	He also said Shockey is "living the dream life of a New York athlete.	3
+s_1175	But Mitsubishi Tokyo Financial (JP:8306: news, chart, profile) declined 3,000 yen, or 0.65 percent, to 456,000 yen.	Sumitomo Mitsui Financial (JP:8316: news, chart, profile) was down 2.5 percent at 198,000 yen.	2
+s_1181	Outside the court, Sriyanto, who faces up to 25 years' jail, denied he had done anything wrong.	Outside the court, Sriyanto denied to The Age that he had done anything wrong.	3
+s_1186	"What they have done is a thinly veiled attempt to do an end run around the Constitution," she said.	The church's lawyer, Shirley Phelps-Roper, was clear: "What they have done is a thinly veiled attempt to do an end run around the constitution," she said.	3
+s_1190	The Nasdaq composite index rose 13.70, or 0.8 per cent, to 1700.34.	The technology-laced Nasdaq Composite Index .IXIC gained 13.73 points, or 0.81 percent, to finish at 1,700.34.	4
+s_1204	On the upside, Coca-Cola Co. (nyse: KO - news - people) reported higher profit for the quarter early on Thursday, helped by European demand.	Coca-Cola Co. (KO) reported higher profit for the quarter, helped by European demand, early on Thursday.	5
+s_1207	As part of his deal, Mr. Delainey has agreed to cooperate in the continuing investigation.	Dave Delainey agreed to cooperate with federal prosecutors in exchange for the plea.	4
+s_1209	A 25 percent increase would raise undergraduate tuition to about $5,247 annually, including miscellaneous, campus-based fees.	The 25 percent hike takes annual UC undergraduate tuition to $4,794 and graduate fees to $5,019.	3
